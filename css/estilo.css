@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 10px;
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+#t2 {
+    background-color: #F2F2F2;
+    padding: 10px;
+}
+#t2 {
+    background-color: #E0F9FD;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #FFFCD7;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #FFC9C9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #DFDFFF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t6 {
+    background-color: #D2FFDD;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t2 p img {
+    float: left;
+    padding-right: 13px;
+}
+#t3 p img {
+    float: left;
+    padding-right: 10px;
+}
+#t4 p img {
+    float: none;
+    clear: left;
+}
+#menu {
+    background-color: #A3C4FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t7 {
+    background-color: #F7FFBC;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t7 p img {
+    float: left;
+    padding-right: 13px;
+}
